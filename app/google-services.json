@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "870697743411",
+    "project_id": "lg-reg-akki",
+    "storage_bucket": "lg-reg-akki.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870697743411:android:0d217d0dad334595851f46",
+        "android_client_info": {
+          "package_name": "com.example.firebaselogin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApzt31hNu3ZyEt6_Z7eLj5AH5at8mA5Pk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870697743411:android:3fcfe02f29b20645851f46",
+        "android_client_info": {
+          "package_name": "com.example.skysearchai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApzt31hNu3ZyEt6_Z7eLj5AH5at8mA5Pk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870697743411:android:7697895ff069f14b851f46",
+        "android_client_info": {
+          "package_name": "com.example.tweet_tweet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApzt31hNu3ZyEt6_Z7eLj5AH5at8mA5Pk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

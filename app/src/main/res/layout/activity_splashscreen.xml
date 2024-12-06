@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/progressbar"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".splashscreenActivity"
+    android:background="@drawable/logo1"
+    >
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="57dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="0dp"
+        android:background="#3a41c6"
+        android:text="SKY Search AI"
+        android:textAlignment="center"
+        android:textColor="#FFFF00"
+        android:textSize="30dp" />
+</RelativeLayout>
