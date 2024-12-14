@@ -74,4 +74,4 @@ This project was developed for learning purposes and is not intended for commerc
 
 ---
 
-For any queries or feedback, reach out at **abodhale@hawk.iit.edu**.
+For any queries or feedback, reach out at **akash.bodhale@yahoo.com**.
