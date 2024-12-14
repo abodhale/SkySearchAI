@@ -60,6 +60,7 @@ Sky Search AI is an easy-to-use AI-powered application that allows users to ask 
 
 ## Images of working Model
 Text response
+
 <img width="459" alt="Screenshot 2024-12-14 at 2 02 07 AM" src="https://github.com/user-attachments/assets/a9304eb4-ca67-4241-bbad-eac687882027" />
 
 Image Response
